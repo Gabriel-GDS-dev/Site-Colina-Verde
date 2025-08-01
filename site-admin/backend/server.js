@@ -6,7 +6,7 @@ const app = express();
 const session = require("express-session");
 app.use(
   session({
-    secret: "colina-verde-secret",
+    secret: "site-secret",
     resave: false,
     saveUninitialized: false,
     cookie: {

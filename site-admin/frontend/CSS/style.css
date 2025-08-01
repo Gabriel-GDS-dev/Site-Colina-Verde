@@ -4,15 +4,20 @@ body {
     margin: 0;
     padding: 20px;
 }
-.login-container, .admin-container {
+
+.login-container,
+.admin-container {
     max-width: 500px;
     margin: 40px auto;
     padding: 20px;
     background: white;
     border-radius: 12px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-input, button, textarea {
+
+input,
+button,
+textarea {
     width: 100%;
     padding: 10px;
     margin-top: 10px;
@@ -23,7 +28,8 @@ input, button, textarea {
     transition: border-color 0.2s;
 }
 
-input:focus, textarea:focus {
+input:focus,
+textarea:focus {
     border-color: #3ca241;
     outline: none;
 }
@@ -37,13 +43,15 @@ input:focus, textarea:focus {
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 12px;
-    box-shadow: 0 1px 4px rgba(60,162,65,0.07);
+    box-shadow: 0 1px 4px rgba(60, 162, 65, 0.07);
 }
+
 .tabs {
     display: flex;
     gap: 10px;
     margin-bottom: 20px;
 }
+
 .tabs button {
     flex: 1;
     padding: 10px;

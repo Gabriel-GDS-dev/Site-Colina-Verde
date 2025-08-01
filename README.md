@@ -1,7 +1,7 @@
 
-# 🌿 Colina Verde - Site Oficial
+# 🌿 Site - Site Oficial
 
-Este é o repositório do site oficial da **Colina Verde**, um espaço gastronômico que oferece buffet, porções, drinks e um ambiente aconchegante para todos os momentos. O site apresenta o cardápio, imagens do local, informações de contato e um sistema administrativo para gerenciamento interno.
+Este é o repositório do site oficial da **Site**, um espaço gastronômico que oferece buffet, porções, drinks e um ambiente aconchegante para todos os momentos. O site apresenta o cardápio, imagens do local, informações de contato e um sistema administrativo para gerenciamento interno.
 
 ---
 
@@ -65,8 +65,8 @@ Este é o repositório do site oficial da **Colina Verde**, um espaço gastronô
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Gabriel-GDS-dev/Site-Colina-Verde.git
-   cd SITE-COLINA-VERDE
+   git clone https://github.com/Gabriel-GDS-dev/Site-Padrao.git
+   cd SITE-PADRAO
    ```
 
 2. Instale as dependências:
@@ -96,13 +96,13 @@ Este é o repositório do site oficial da **Colina Verde**, um espaço gastronô
 ## 📷 Referência Visual
 
 Design baseado no Instagram oficial:  
-[instagram.com/colinaverde_](https://www.instagram.com/colinaverde_/)
+
 
 ---
 
 ## 📄 Licença
 
-Este projeto é de uso interno do estabelecimento **Colina Verde**. Todos os direitos reservados.
+Este projeto é de uso interno do estabelecimento **Site**. Todos os direitos reservados.
 
 ---
 
